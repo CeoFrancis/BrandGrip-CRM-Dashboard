@@ -1,0 +1,15 @@
+/* Add the custom styles from the previous version here */
+body {
+    font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+}
+.custom-scroll::-webkit-scrollbar {
+    width: 8px;
+}
+.custom-scroll::-webkit-scrollbar-thumb {
+    background-color: #cbd5e1; /* slate-300 */
+    border-radius: 4px;
+}
+.custom-scroll {
+    scrollbar-width: thin;
+    scrollbar-color: #cbd5e1 #f8fafc; /* slate-300 track */
+}
