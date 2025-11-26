@@ -1,6 +1,6 @@
  // --- Configuration ---
     // !!! IMPORTANT: Replace this with your actual Apps Script Web App URL !!!
-    const API_ENDPOINT = 'https://script.google.com/macros/s/AKfyc.../exec'; 
+    const API_ENDPOINT = 'https://script.google.com/macros/s/AKfycbyr64h31VJ4RlVh4BtsezVgKDAFK5kVE3ur49Fcb2tU7Cfj5l6n1V1Pu6yJfhaUppNG1Q/exec'; 
 
     // --- Global State ---
     let ALL_LEADS = [];
